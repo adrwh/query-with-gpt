@@ -4,11 +4,11 @@ The opportunities have immediate ROI.
 
 Here's some examples.
 
-    ⚡️ Imagine querying your employee intranet for a summary of what the CEO and senior leadership have been publishing lately?
+>⚡️ Imagine querying your employee intranet for a summary of what the CEO and senior leadership have been publishing lately?
 
-    ⚡️ How about asking your user activity log data when someone last logged in, and what device and IP they were using?
+>⚡️ How about asking your user security activity log data when someone last logged in, and what device and IP they were using?
 
-    ⚡️ Or how about asking what your company password policy is, or to give details about acceptable use?
+>⚡️ Or how about asking what your company password policy is, or to give details about acceptable use?
 
 In this article, we will setup a web site that let's you do exactly that, your own company GPT bot, in only 32 lines of code.
 
@@ -38,8 +38,7 @@ I have used Flask for the web server and made use of its templates module and Bo
 
 I used https://gpt-index.readthedocs.io/en/latest/getting_started/starter_example.html and https://gpt-index.readthedocs.io/en/latest/guides/tutorials/fullstack_app_guide.html to develop this solution.
 
-
-For those that know how, you can clone https://github.com/adrwh/query-with-gpt.git and get running within minutes.
+>For those that know how, clone https://github.com/adrwh/query-with-gpt.git and get running in minutes.
 
 ## Finished product
 
@@ -56,3 +55,4 @@ For those that know how, you can clone https://github.com/adrwh/query-with-gpt.g
 **Query:** Can i use my work computer for gaming?
 
 <img src="images/Can-i-use-my-work-computer-for-gaming.png" width="300" />
+
