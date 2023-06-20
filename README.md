@@ -40,12 +40,12 @@ For those that know how, you can clone https://github.com/adrwh/query-with-gpt.g
 
 Query: Whats the minimum length for company passwords?
 
-![]("/images/Whats-the-minimum-length-for-company-passwords.png")
+![](images/Whats-the-minimum-length-for-company-passwords.png)
 
 Query: Do i need to use special characters in passwords?
 
-![]("images/Do-i-need-to-use-special-characters-in-passwords.png")
+![](images/Do-i-need-to-use-special-characters-in-passwords.png)
 
 Query: Can i use my work computer for gaming?
 
-![]("images/Can-i-use-my-work-computer-for-gaming.png")
+![](images/Can-i-use-my-work-computer-for-gaming.png)
