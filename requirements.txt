@@ -1,0 +1,4 @@
+Flask
+docx2txt
+python-dotenv
+llama_index
