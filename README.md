@@ -34,5 +34,18 @@ I have used Flask for the web server and made use of its templates module and Bo
 I used https://gpt-index.readthedocs.io/en/latest/getting_started/starter_example.html and https://gpt-index.readthedocs.io/en/latest/guides/tutorials/fullstack_app_guide.html to develop this solution.
 
 
-## Get started
+For those that know how, you can clone https://github.com/adrwh/query-with-gpt.git and get running within minutes.
 
+## Finished product
+
+Query: Whats the minimum length for company passwords?
+
+![]("images/Whats the minimum length for company passwords.png")
+
+Query: Do i need to use special characters in passwords?
+
+![]("images/Do i need to use special characters in passwords.png")
+
+Query: Can i use my work computer for gaming?
+
+![]("images/Can i use my work computer for gaming.png")
