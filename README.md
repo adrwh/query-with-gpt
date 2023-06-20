@@ -24,21 +24,21 @@ There's already "hundred's" of tutorials out there doing this, so i won't provid
 
 ## Setup overview
 
-Get a computer, get the latest Python, create a virtual environment and install the required modules (`llama_index`, `docx2txt`, `flask` and `python-dotenv`)
-
-```
-pip install llama_index docx2txt flask python-dotenv
-```
+✅ Get a computer, get the latest Python, create a virtual environment and install the required modules.
 
 ✅ Create a `.env` file and put in your `OPENAI_API_KEY=nnn`
 
 ✅ Create an `app.py` file, this is the main application file.
 
-I have used Flask for the web server and made use of its templates module and Bootsrap CSS for a little styling.
+✅ I used Flask for the web server and made use of its templates module and some Bootsrap CSS for a little styling.
 
-I used https://gpt-index.readthedocs.io/en/latest/getting_started/starter_example.html and https://gpt-index.readthedocs.io/en/latest/guides/tutorials/fullstack_app_guide.html to develop this solution.
+✅ Clone https://github.com/adrwh/query-with-gpt.git and get running in minutes.
 
->For those that know how, clone https://github.com/adrwh/query-with-gpt.git and get running in minutes.
+### Documentation here!
+
+📂 https://gpt-index.readthedocs.io/en/latest/getting_started/starter_example.html 
+
+📂 https://gpt-index.readthedocs.io/en/latest/guides/tutorials/fullstack_app_guide.html
 
 ## Finished product
 
@@ -56,3 +56,4 @@ I used https://gpt-index.readthedocs.io/en/latest/getting_started/starter_exampl
 
 <img src="images/Can-i-use-my-work-computer-for-gaming.png" width="300" />
 
+>Note:  This is not production code, and should not be make public.
